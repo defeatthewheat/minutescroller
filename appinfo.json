@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kar@rrossinc.com",
+    "longName": "Minute_Scroller",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Minute_Scroller",
+    "uuid": "7ecb999f-8dc5-495e-826c-cd816699f935",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
